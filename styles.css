@@ -67,6 +67,11 @@ body {
 		margin-top: -40px;
 	}
 }
+@media (min-width: 480px) {
+	.first-paragraph {
+		font-size: 1rem;
+	}
+}
 @media (min-width: 1440px) {
 	.wrapper {
 		width: 100%;
